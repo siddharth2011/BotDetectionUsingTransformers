@@ -10,4 +10,4 @@ In this approach, we use the popular T5 model by google and frame the Bot classi
 
 As part of the T5Classifier, we insturction tune the model by adding the definition of task followed by 2 positive, negative and neutral examples to every sample in the training set to provide more contextual information. 
 
-The notebook can be found [here](https://pages.github.com/).
+The notebook can be found [here](https://github.com/siddharth2011/Bot_Detection/blob/main/T5_Bot_Detection.ipynb).
