@@ -20,3 +20,9 @@ The notebook can be found [here](https://github.com/siddharth2011/Bot_Detection/
 | Bert Classifier| 90.86% |
 | TkInsturct Classifier| - |
 | SVM Classifier| - |
+
+## References
+<a id="1">[1]</a> 
+Dijkstra, E. W. (1968). 
+Go to statement considered harmful. 
+Communications of the ACM, 11(3), 147-148.
