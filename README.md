@@ -1,1 +1,7 @@
-# Bot_Detection
+# Bot Detection
+
+
+## BERT Classification Approach
+
+
+## T5 Classification Approach
