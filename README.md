@@ -23,9 +23,4 @@ The notebook can be found [here](https://github.com/siddharth2011/Bot_Detection/
 
 ## References
 <a id="1">[1]</a> 
-@article{scaria2023instructabsa,
-  title={InstructABSA: Instruction Learning for Aspect Based Sentiment Analysis},
-  author={Scaria, Kevin and Gupta, Himanshu and Sawant, Saurabh Arjun and Mishra, Swaroop and Baral, Chitta},
-  journal={arXiv preprint arXiv:2302.08624},
-  year={2023}
-}.
+Scaria, K., Gupta, H., Goyal, S., Sawant, S. A., Mishra, S., & Baral, C. (2023). InstructABSA: Instruction Learning for Aspect Based Sentiment Analysis. arXiv preprint arXiv:2302.08624.
