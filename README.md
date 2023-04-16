@@ -1,4 +1,4 @@
-# Bot Detection
+# Bot Detection using Transformers
 
 
 ## BERT Classification Approach
