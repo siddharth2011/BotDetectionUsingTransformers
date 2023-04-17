@@ -24,3 +24,8 @@ The notebook can be found [here](https://github.com/siddharth2011/Bot_Detection/
 ## References
 <a id="1">[1]</a> 
 Scaria, K., Gupta, H., Goyal, S., Sawant, S. A., Mishra, S., & Baral, C. (2023). InstructABSA: Instruction Learning for Aspect Based Sentiment Analysis. arXiv preprint [arXiv:2302.08624](https://arxiv.org/abs/2302.08624).
+
+
+
+<a id="1">[1]</a> 
+Cheng-Caverlee-Lee September 2009 - January 2010 twitter scrape . Internet Archive. (2010, November 7). Retrieved from https://archive.org/details/twitter_cikm_2010
