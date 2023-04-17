@@ -27,5 +27,5 @@ Scaria, K., Gupta, H., Goyal, S., Sawant, S. A., Mishra, S., & Baral, C. (2023).
 
 
 
-<a id="1">[1]</a> 
+<a id="2">[1]</a> 
 Cheng-Caverlee-Lee September 2009 - January 2010 twitter scrape . Internet Archive. (2010, November 7). Retrieved from https://archive.org/details/twitter_cikm_2010
