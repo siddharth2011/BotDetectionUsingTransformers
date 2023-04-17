@@ -18,7 +18,7 @@ The notebook can be found [here](https://github.com/siddharth2011/Bot_Detection/
 | Model Name  | Accuracy |
 | ------------- | ------------- |
 | Bert Classifier| 90.86% |
-| TkInsturct Classifier| - |
+| TkInsturct Classifier| 51.50% |
 | SVM Classifier| - |
 
 ## References
