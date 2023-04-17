@@ -29,3 +29,10 @@ Scaria, K., Gupta, H., Goyal, S., Sawant, S. A., Mishra, S., & Baral, C. (2023).
 
 <a id="2">[2]</a> 
 Cheng-Caverlee-Lee September 2009 - January 2010 twitter scrape . Internet Archive. (2010, November 7). Retrieved from https://archive.org/details/twitter_cikm_2010
+
+<a id="3">[3]</a> 
+Dukić, D., Keča, D., & Stipić, D. (n.d.). Are you human? detecting bots on Twitter using Bert | IEEE conference ... Retrieved from https://ieeexplore.ieee.org/document/9260074/
+
+<a id="4">[4]</a> 
+Feng, S., Wan, H., Wang, N., Luo, M., & Li, J. (2021, August 27). TwiBot-20: A comprehensive twitter bot detection benchmark - arxiv. Retrieved from https://arxiv.org/pdf/2106.13088v4.pdf
+
