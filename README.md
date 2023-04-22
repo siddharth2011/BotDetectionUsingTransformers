@@ -14,12 +14,15 @@ The notebook can be found [here](https://github.com/siddharth2011/Bot_Detection/
 
 ## Classical ML approach (SVM)
 
+In this approach, we use two models. Logisitc Regression and SVM models. We use TF-IDF to vectorize text data and then convert it into a supervised classification task.  The notebook can be found under SVMClassification. 
+
+Libraries needed to run this are present in requirements.txt
 ## Model Comparisons
 | Model Name  | Accuracy |
 | ------------- | ------------- |
 | Bert Classifier| 90.86% |
 | TkInsturct Classifier| 51.50% |
-| SVM Classifier| - |
+| SVM Classifier| - 0.7090301003344481|
 
 ## References
 <a id="1">[1]</a> 
