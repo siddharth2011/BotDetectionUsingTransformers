@@ -22,7 +22,7 @@ Libraries needed to run this are present in requirements.txt
 | ------------- | ------------- |
 | Bert Classifier| 90.86% |
 | TkInsturct Classifier| 51.50% |
-| SVM Classifier| 0.7090301003344481|
+| SVM Classifier| 70.9%|
 
 ## References
 <a id="1">[1]</a> 
