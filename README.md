@@ -28,8 +28,6 @@ Libraries needed to run this are present in requirements.txt
 <a id="1">[1]</a> 
 Scaria, K., Gupta, H., Goyal, S., Sawant, S. A., Mishra, S., & Baral, C. (2023). InstructABSA: Instruction Learning for Aspect Based Sentiment Analysis. arXiv preprint [arXiv:2302.08624](https://arxiv.org/abs/2302.08624).
 
-
-
 <a id="2">[2]</a> 
 Cheng-Caverlee-Lee September 2009 - January 2010 twitter scrape . Internet Archive. (2010, November 7). Retrieved from https://archive.org/details/twitter_cikm_2010
 
@@ -38,4 +36,7 @@ Dukić, D., Keča, D., & Stipić, D. (n.d.). Are you human? detecting bots on Tw
 
 <a id="4">[4]</a> 
 Feng, S., Wan, H., Wang, N., Luo, M., & Li, J. (2021, August 27). TwiBot-20: A comprehensive twitter bot detection benchmark - arxiv. Retrieved from https://arxiv.org/pdf/2106.13088v4.pdf
+
+<a id="5">[5]</a> 
+[Super-NaturalInstructions: Generalization via Declarative Instructions on 1600+ NLP Tasks](https://aclanthology.org/2022.emnlp-main.340) (Wang et al., EMNLP 2022)
 
