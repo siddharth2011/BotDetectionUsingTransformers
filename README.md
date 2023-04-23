@@ -40,3 +40,6 @@ Feng, S., Wan, H., Wang, N., Luo, M., & Li, J. (2021, August 27). TwiBot-20: A c
 <a id="5">[5]</a> 
 [Super-NaturalInstructions: Generalization via Declarative Instructions on 1600+ NLP Tasks](https://aclanthology.org/2022.emnlp-main.340) (Wang et al., EMNLP 2022)
 
+<a id="6">[6]</a> 
+[BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding](https://aclanthology.org/N19-1423) (Devlin et al., NAACL 2019)
+
