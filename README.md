@@ -24,9 +24,9 @@ Libraries needed to run this are present in requirements.txt
 ## Model Comparisons
 | Model Name  | Accuracy |
 | ------------- | ------------- |
-| Bert Classifier| 90.86% |
-| TkInsturct Classifier| 51.50% |
-| SVM Classifier| 70.9%|
+| Bert Classifier| 89.73% |
+| TkInsturct Classifier| 51.56% |
+| SVM Classifier| 70.90%|
 
 ## References
 <a id="1">[1]</a> 
