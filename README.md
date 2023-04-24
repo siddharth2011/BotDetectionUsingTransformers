@@ -2,7 +2,7 @@
 
 
 ## BERT Classification Approach
-The Git repository in question is focused on using BERT (Bidirectional Encoder Representations from Transformers) for bot detection on Twitter data. BERT is a deep learning model that is commonly used in natural language processing tasks such as text classification, question answering, and language translation.
+This repository is focused on using BERT (Bidirectional Encoder Representations from Transformers) for bot detection on Twitter data. BERT is a deep learning model that is commonly used in natural language processing tasks such as text classification, question answering, and language translation.
 
 The repository includes code for training the BERT model, and evaluating its performance. The code is written in Python and uses popular machine learning PyTorch library.
 
